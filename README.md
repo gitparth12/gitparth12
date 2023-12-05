@@ -3,13 +3,13 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=gitparth12&label=Profile%20views&color=0e75b6&style=flat&theme=tokyonight" alt="gitparth12" /> </p>
 
-- 🌱 I’m currently learning **DSA, full-stack development**
+- 🌱 I’m currently learning **full-stack development**
 
-- 📫 How to reach me **parthbhargava1209@gmail.com**
+- 📫 How to reach me **parthbhargava0@gmail.com**
 
-- 🥅 My goal is to be able to contribute in open source projects
+- 🥅 My goal is to develop practical, open source applications
 
-- ⚡ I love to play with new CLI tools
+- ⚡ I love to experiment with new CLI tools and developing workflows
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1vSUGoNIS1_nnUczMu-3pTIhKwTWWbxkO/view?usp=sharing](https://drive.google.com/file/d/1vSUGoNIS1_nnUczMu-3pTIhKwTWWbxkO/view?usp=sharing)
 
